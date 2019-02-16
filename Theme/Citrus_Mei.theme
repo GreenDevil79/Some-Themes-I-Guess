@@ -9,7 +9,7 @@ The 1 item isn't owned by me, It goes to the respected owner.
 */
 
 :root{
-    --background: url('https://i.imgur.com/Jgn01jI.png ');
+    --background: url('https://i.imgur.com/Jgn01jI.gif');
 
     --transparency-1: linear-gradient(to right, rgba(254,248,189,0.55), rgba(254,248,189,0.55));
 	--transparency-2: linear-gradient(to right, rgba(254,248,189,0.55), rgba(254,248,189,0.55));
