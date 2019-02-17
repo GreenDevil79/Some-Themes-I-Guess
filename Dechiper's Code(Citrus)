@@ -40,7 +40,6 @@
     --fontchannelnamesize: 16px !important; /* Default: 16px */
     --fonttooltipsize: 14px !important; /* Default: 14px */
     --fontusernamesize: 15px !important; /* Default: 15px */
-    --fontcolor: #FF6FFF !important; /* Default: green */
     
     /* Scrollbars */
     
